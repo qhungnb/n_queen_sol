@@ -1,1 +1,1 @@
-n_queen_sol
+N-Queen solution using simulated annealing algorithm
